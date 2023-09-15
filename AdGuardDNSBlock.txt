@@ -24,7 +24,6 @@
 @@||ad.admitad.com^$important
 @@||client-uc.heytapmobi.com^$important
 @@||go.onelink.me^$important
-||test.com^$client='131.159.24.242'
 @@||app.uni.club^$important
 @@||app.cheq.one^$important
 @@||www.ipage.com^$important
