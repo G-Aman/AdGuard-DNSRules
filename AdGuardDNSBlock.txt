@@ -1,3 +1,13 @@
+
+! Title: My AdGuard DNS filter
+! Description: Blocking annoying apps and app advertisement manually.
+! 
+! Last modified: 2023-09-15
+!
+! Author: Aman Gupta
+
+
+
 @@||p.paytm.me^$important
 @@||androidtvchannels-pa.googleapis.com^$important
 @@||app.cred.club^$important
