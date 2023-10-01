@@ -23,6 +23,9 @@
 @@||app.cheq.one^$important
 @@||www.ipage.com^$important
 @@||www1.ipage.com^$important
+@@||cuelinks.gotrackier.com^$important
+@@||track.vcommission.com^$important
+
 
 ! Blocklist
 ||ads-static.phonepe.com^$important
