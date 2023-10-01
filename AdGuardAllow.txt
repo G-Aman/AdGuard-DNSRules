@@ -16,7 +16,6 @@
 @@||aax-eu.amazon-adsystem.com^$important
 @@||intorterraon.com^$important
 @@||in1-spiky.clevertap-prod.com^$important
-@@||ad.admitad.com^$important
 @@||client-uc.heytapmobi.com^$important
 @@||go.onelink.me^$important
 @@||app.uni.club^$important
