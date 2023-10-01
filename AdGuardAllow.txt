@@ -1,6 +1,6 @@
 
 ! Title: My AdGuard DNS filter
-! Description: Blocking annoying apps and app advertisements manually.
+! Description: Allowlist for AdGuard DNS Filter
 ! 
 ! Last modified: 2023-10-02
 !
