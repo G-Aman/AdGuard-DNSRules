@@ -1,0 +1,27 @@
+
+! Title: My AdGuard DNS filter
+! Description: Blocking annoying apps and app advertisements manually.
+! 
+! Last modified: 2023-10-02
+!
+! Author: Aman Gupta
+
+! Allowlist - Override other BlockList
+@@||p.paytm.me^$important
+@@||androidtvchannels-pa.googleapis.com^$important
+@@||app.cred.club^$important
+@@||unagi-eu.amazon.com^$important
+@@||unagi.amazon.in^$important
+@@||aax-eu.amazon.in^$important
+@@||aax-eu.amazon-adsystem.com^$important
+@@||intorterraon.com^$important
+@@||in1-spiky.clevertap-prod.com^$important
+@@||ad.admitad.com^$important
+@@||client-uc.heytapmobi.com^$important
+@@||go.onelink.me^$important
+@@||app.uni.club^$important
+@@||app.cheq.one^$important
+@@||www.ipage.com^$important
+@@||www1.ipage.com^$important
+@@||cuelinks.gotrackier.com^$important
+@@||track.vcommission.com^$important
