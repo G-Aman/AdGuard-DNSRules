@@ -1,1 +1,1 @@
-||jiofi.local^$dnsrewrite=NOERROR;A;192.168.225.1
+||jiofi.aman^$dnsrewrite=NOERROR;A;192.168.225.1
