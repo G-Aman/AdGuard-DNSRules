@@ -24,3 +24,4 @@
 @@||www1.ipage.com^$important
 @@||cuelinks.gotrackier.com^$important
 @@||track.vcommission.com^$important
+@@||s.youtube.com^$important
