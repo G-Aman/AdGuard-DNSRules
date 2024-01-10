@@ -25,3 +25,4 @@
 @@||cuelinks.gotrackier.com^$important
 @@||track.vcommission.com^$important
 @@||s.youtube.com^$important
+@@||bifrost-api.hotstar.com^$important
