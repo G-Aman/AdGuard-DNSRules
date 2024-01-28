@@ -12,11 +12,11 @@
 ||peekaboo.phonepe.com^$important
 ||mdp-appconf-in.heytapdl.com^$important
 ||videoclipf.apps.coloros.com^$important
-||myjosh.in^$important
-||coolfie.io^$important
-||filmyfly.info^$important
-||mmastinapp.com^$important
-||vllresource.com^$important
+! ||myjosh.in^$important
+! ||coolfie.io^$important
+! ||filmyfly.info^$important
+! ||mmastinapp.com^$important
+! ||vllresource.com^$important
 ||rthdo.com^$important
 ||sharechat.com^$important
 ||taobao.com^$important
