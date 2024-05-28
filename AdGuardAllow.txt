@@ -26,3 +26,8 @@
 @@||track.vcommission.com^$important
 @@||s.youtube.com^$important
 @@||bifrost-api.hotstar.com^$important
+@@||cuelinks.gotrackier.com^$important
+@@||track.vcommission.com^$important
+@@||redirect.viglink.com^$important
+@@||comsync.lijit.com^$important
+@@||invite.piceapp.com^$important
