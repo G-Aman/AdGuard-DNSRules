@@ -9,6 +9,7 @@
 ! Allowlist - Override other BlockList
 @@||p.paytm.me^$important
 @@||androidtvchannels-pa.googleapis.com^$important
+@@||imasdk.googleapis.com^$important
 @@||app.cred.club^$important
 @@||unagi-eu.amazon.com^$important
 @@||unagi.amazon.in^$important
