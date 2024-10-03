@@ -2,7 +2,7 @@
 ! Title: My AdGuard DNS filter
 ! Description: Blocking annoying apps and app advertisements manually.
 ! 
-! Last modified: 2023-10-02
+! Last modified: 2024-10-03
 !
 ! Author: Aman Gupta
 !
@@ -23,4 +23,3 @@
 ||ads-config-engine-noneu.truecaller.com^$important
 ||premium-noneu.truecaller.com^$important
 ||ads-segment-profile-noneu.truecaller.com^$important
-||link.adtidy.org^$important
