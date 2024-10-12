@@ -2,7 +2,7 @@
 ! Title: My AdGuard DNS filter
 ! Description: Allowlist for AdGuard DNS Filter
 ! 
-! Last modified: 2023-10-02
+! Last modified: 2024-10-12
 !
 ! Author: Aman Gupta
 
@@ -32,3 +32,6 @@
 @@||redirect.viglink.com^$important
 @@||comsync.lijit.com^$important
 @@||invite.piceapp.com^$important
+@@||tcp.ngrok.io^$important
+@@||aman.work.gd^$important
+
