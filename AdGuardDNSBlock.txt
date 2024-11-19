@@ -9,7 +9,6 @@
 ! Blocklist
 ||ads-static.phonepe.com^$important
 ||ads.phonepe.com^$important
-||peekaboo.phonepe.com^$important
 ||mdp-appconf-in.heytapdl.com^$important
 ||videoclipf.apps.coloros.com^$important
 ! ||myjosh.in^$important
