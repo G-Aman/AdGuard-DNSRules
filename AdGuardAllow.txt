@@ -34,4 +34,5 @@
 @@||invite.piceapp.com^$important
 @@||tcp.ngrok.io^$important
 @@||jsonip.com^$important
+@@||l.wl.co^$important
 
