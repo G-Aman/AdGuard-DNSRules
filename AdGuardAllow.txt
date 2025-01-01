@@ -35,4 +35,5 @@
 @@||tcp.ngrok.io^$important
 @@||jsonip.com^$important
 @@||l.wl.co^$important
+@@||revanced.net^$important
 
