@@ -1,1 +1,2 @@
 192.168.225.1 jiofi.aman
+68.233.117.102 rew.aman.ltd
