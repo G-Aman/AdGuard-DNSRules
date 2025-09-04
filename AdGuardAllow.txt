@@ -36,4 +36,4 @@
 @@||jsonip.com^$important
 @@||l.wl.co^$important
 @@||revanced.net^$important
-
+@@||vanced.to^$important
