@@ -22,3 +22,7 @@
 ||ads-config-engine-noneu.truecaller.com^$important
 ||premium-noneu.truecaller.com^$important
 ||ads-segment-profile-noneu.truecaller.com^$important
+||jiostb.cdn.jio.com^$important
+||jiotv.data.cdn.jio.com^$important
+||siglyapi.jio.com^$important
+||acs.oss.jio.com^$important
