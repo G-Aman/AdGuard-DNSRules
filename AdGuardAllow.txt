@@ -37,6 +37,7 @@
 @@||l.wl.co^$important
 @@||revanced.net^$important
 @@||vanced.to^$important
+@@||data.pendo.io^$important
 @@||aman.work.gd^$important
 @@||bobcard.co.in^$important
 @@||papertrailapp.com^$important
