@@ -41,3 +41,5 @@
 @@||aman.work.gd^$important
 @@||bobcard.co.in^$important
 @@||papertrailapp.com^$important
+@@||in1.clevertap-prod.com^$important
+@@||api-js.mixpanel.com^$important
