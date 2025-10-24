@@ -26,3 +26,4 @@
 ||jiotv.data.cdn.jio.com^$important
 ||siglyapi.jio.com^$important
 ||acs.oss.jio.com^$important
+||gransy.com^
