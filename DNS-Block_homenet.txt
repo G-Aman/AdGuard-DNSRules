@@ -1,0 +1,7 @@
+||jiostb.cdn.jio.com^$important
+||jiotv.data.cdn.jio.com^$important
+||siglyapi.jio.com^$important
+||acs.oss.jio.com^$important
+#||tv.media.jio.com^$important
+||dns.google^$important
+||unagi-eu.amazon.com^$important
